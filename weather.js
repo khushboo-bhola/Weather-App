@@ -1,6 +1,6 @@
 let box1 = document.getElementById("box1");
 
-const images = ["girl.jpg", "forest.jpg", "tree.jpg", "nature.jpg", "sunny.jpg"];
+const images = ["/girl.jpg", "/forest.jpg", "/tree.jpg", "/nature.jpg", "/sunny.jpg"];
 
 // Background slideshow
 for (let i = 0; i < images.length; i++) {
